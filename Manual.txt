@@ -1,3 +1,13 @@
+              COMO REGISTRARSE A GIT
+--------------------------------------------------
+como registrarte a git:
+- git config --global user.name "FaridHI"
+- git config --global user.email "1121041@senati.pe"
+- git config --list
+
+--------------------------------------------------
+              COMPLEMENTOS DE CODIGOS
+--------------------------------------------------
 para eliminar un origin:
 - git remote remove origin
 - git remote set-url origin [new-url]
