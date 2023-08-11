@@ -29,3 +29,11 @@ para eliminar archivos:
 - git status
 - git commit -m 'elimine el archivo'
 - git push
+
+-------------------------------------------------
+
+para cambiar el nombre de los archivos:
+- git mv 'nombre antiguo.tipo de archivo' 'nuevo nombre'
+- git status
+- git commit
+- git push
