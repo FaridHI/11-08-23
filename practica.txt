@@ -1,12 +1,15 @@
 para eliminar un origin:
-
 - git remote remove origin
 - git remote set-url origin [new-url]
+
+---------------------------------------------------
 
 para agregar archivos:
 - git status
 - echo 'My Project' > README
 - git push
+
+--------------------------------------------------
 
 para guardar cambios:
 - git status
@@ -16,6 +19,8 @@ para guardar cambios:
 - Esc ':wq' Enter
 - git status
 - git push
+
+-------------------------------------------------
 
 para eliminar archivos:
 - rm 'nombre del archivo'
