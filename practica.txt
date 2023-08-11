@@ -1,1 +1,4 @@
-Hola como estas
+para eliminar un origin:
+
+- git remote remove origin
+- git remote set-url origin [new-url]
