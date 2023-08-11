@@ -17,3 +17,8 @@ para guardar cambios:
 - git status
 - git push
 
+para eliminar archivos:
+- rm 'nombre del archivo'
+- git status
+- git rm 'nombre del archivo'
+- git status
