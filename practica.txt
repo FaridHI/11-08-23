@@ -11,6 +11,8 @@ para guardar cambios:
 - git status
 - git add .
 - git commit 
+- presionamos 'I'
 - Esc ':wq' Enter
 - git status
+- git push
 
