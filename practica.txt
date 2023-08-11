@@ -22,3 +22,5 @@ para eliminar archivos:
 - git status
 - git rm 'nombre del archivo'
 - git status
+- git commit -m 'elimine el archivo'
+- git push
