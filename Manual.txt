@@ -37,3 +37,7 @@ para cambiar el nombre de los archivos:
 - git status
 - git commit
 - git push
+
+-------------------------------------------------
+
+ESO ES TODO
