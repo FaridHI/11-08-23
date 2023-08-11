@@ -7,3 +7,10 @@ para agregar archivos:
 - git status
 - echo 'My Project' > README
 - git push
+para guardar cambios:
+- git status
+- git add .
+- git commit 
+- Esc ':wq' Enter
+- git status
+
