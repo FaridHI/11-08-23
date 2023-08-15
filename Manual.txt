@@ -50,4 +50,28 @@ para cambiar el nombre de los archivos:
 
 -------------------------------------------------
 
+hacer checkout a un repositorio:
+- git clone /path/to/repository
+- git clone username@host:/path/to/repository
+
+-------------------------------------------------
+
+ramas crear:
+- git branch experimental
+
+para crear y moverte inmediatamente a la rama:
+- git checkout -b experimenta1
+
+para moverte a ella:
+- git checkout experimental
+
+para vovler a la rama principal:
+- git checkout master
+
+para borrar la rama:
+- git branch -d experimenta1
+
+para subir tu rama al repositorio:
+- git push origin <branch>
+-------------------------------------------------
 ESO ES TODO GRACIAS
