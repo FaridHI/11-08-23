@@ -18,7 +18,10 @@ para agregar archivos:
 - git status
 - echo 'My Project' > README
 - git push
+--------------------------------------------------
 
+crear archivos:
+- touch 'nombre del archivo.tipo'
 --------------------------------------------------
 
 para guardar cambios:
@@ -39,7 +42,11 @@ para eliminar archivos:
 - git status
 - git commit -m 'elimine el archivo'
 - git push
+-------------------------------------------------
 
+para eliminar carpetas:
+- rm 'nombre de la carpeta'
+- git rm 'nombre de la carpeta'
 -------------------------------------------------
 
 para cambiar el nombre de los archivos:
@@ -74,4 +81,15 @@ para borrar la rama:
 para subir tu rama al repositorio:
 - git push origin <branch>
 -------------------------------------------------
+
+Crear archivos con git bash
+
+para ver donde estamos:
+- pwd
+
+-
+-
+-
+-
+-
 ESO ES TODO GRACIAS
